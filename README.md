@@ -154,7 +154,7 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
     <img src="https://img.shields.io/badge/Email-raj212558@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <!-- LinkedIn -->
-  <a target="_blank" href="https://www.linkedin.com/in/achyutkatiyar2103/">
+  <a target="_blank" href="https://www.linkedin.com/in/imrajmishraa/">
     <img src="https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- GitHub -->
