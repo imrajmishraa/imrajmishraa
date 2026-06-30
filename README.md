@@ -144,6 +144,14 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajmishraa&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<p align="center">
+  <!-- Main Stats -->
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=imrajmishraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <br/><br/>
+  <!-- Contribution Streak -->
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=imrajmishraa&theme=react&border_radius=10" alt="GitHub Streak" />
+</p>
+
 
 
 ## 📬 Connect with Me
