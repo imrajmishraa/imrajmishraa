@@ -92,25 +92,6 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
 
 ---
 
-## 🌟 Leadership & Impact
-
-### 🎯 Technical Leadership
-- **Convener** of University's Technical Team
-  - 📈 **Boosted student engagement by 40%** through strategic committee formation
-  - 🌐 **Led large-scale web initiatives** across university departments
-
-### 👨‍🏫 Mentorship & Development  
-- **Board Member** of APP Design and Development Club
-  - 🚀 **Elevated 15+ junior developers** with tailored workshops and code reviews
-  - 📊 **Achieved 60% improvement in coding skills** through hands-on training programs
-
-## 3D Contribution Calendar
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-</div>
-
----
 
 ## 📊 GitHub Stats & Achievements
 
