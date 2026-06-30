@@ -92,30 +92,6 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏆 Medicare AI
-**Tech Stack:** React.js, Tailwind CSS, Node.js, Express, MongoDB, Gemini AI  
-- 🩺 **Gemini-powered healthcare workspace** for patients, clinicians, and administrators to manage consultations.
-- ⚡ **AI-guided scheduling engine** that helps match patients with doctors based on symptoms.
-- 📊 **Comprehensive dashboard** for clinicians to view appointment queues and record patient logs.
-
-### 🏆 Cosmica AI Studio
-**Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Clerk, Cloudinary API  
-- 🌐 **Cloudinary AI-powered SaaS platform** for digital media management, compression, and transformation in one unified workspace.
-- 🔐 **Secure user authentication** and profile management built using Clerk.
-- ⚡ **AI-driven media operations** including background removal, generative fill, and image enhancement.
-
-### 🏆 DevOverflow with AI
-**Tech Stack:** Next.js, React, TypeScript, Appwrite, Gemini AI, Tailwind CSS, Zustand  
-- 🤖 **AI-powered developer Q&A** with built-in gamification and automatic code optimization.
-- 💬 **Interactive AI assistant** that helps developers optimize code and troubleshoot errors in real-time.
-- 🏆 **Gamified badge and reputation system** to reward active users and contributors.
-
-
-
----
-
 ## 🌟 Leadership & Impact
 
 ### 🎯 Technical Leadership
