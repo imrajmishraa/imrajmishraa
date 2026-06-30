@@ -16,8 +16,8 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
 
 ###  🩺 MediCare – Doctor Appointment & Healthcare Platform
   - Built a full-stack healthcare application with separate patient, doctor, and admin dashboards.
-  - Added AI-powered MediBot assistant using Google Gemini API for 24/7 health guidance and appointment booking
-  - Implemented real-time features using Socket.io — live appointment status updates, instant notifications.
+  - Added AI-powered MediBot assistant using Google Gemini API for 24/7 health guidance and appointment booking.
+  - Implemented real-time notification features using Socket.io
 ###  ⁉️ DevOverflow – AI-Powered Developer Q&A Platform
   - Built a gamified Q&A platform, powering developer levels and community leaderboards.
   - Integrated Gemini API, implementing 3-key failover and Bottleneck rate limiting to ensure 100% API uptime.
