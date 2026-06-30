@@ -141,9 +141,9 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
 <div align="center>
   <div align="top">
   <!-- Stats Card (High-Availability Mirror) -->
-  <img align="left" width="49%" src="https://github-stats-extended.vercel.app/api?username=imrajmishraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=imrajmishraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <!-- Streak Stats Card -->
-  <img align="right" width="49%" src="https://streak-stats.demolab.com/?user=imrajmishraa&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=imrajmishraa&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
   </div>
   
   <br/><br/>
@@ -154,7 +154,7 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
 </div>
 
 <br/>
----
+
 
 ## 📬 Connect with Me
 
