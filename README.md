@@ -141,13 +141,6 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
 ## 📊 GitHub Stats & Achievements
 
 <div align="center">
-  <!-- 🏆 Profile Trophies Widget -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imrajmishraa&theme=react&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
-  </a>
-
-  <br/><br/>
-
   <!-- Stats Card (High-Availability Mirror) -->
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=imrajmishraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <!-- Streak Stats Card -->
