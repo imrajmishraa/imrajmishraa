@@ -14,17 +14,17 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
 
 ## Projects
 
-### * 🩺 MediCare – Doctor Appointment & Healthcare Platform
+###  🩺 MediCare – Doctor Appointment & Healthcare Platform
   - Built a full-stack healthcare applicaBon with separate patient, doctor, and admin dashboards including RBAC.
   - Added AI-powered MediBot assistant using Google Gemini API for 24/7 health guidance and appointment booking
   - Implemented real-time features using Socket.io — live appointment status updates, instant notifications.
   - Secured the app with JWT + Refresh Token auth, Google OAuth, bcrypt password hashing, Helmet.js, and Zod input validation
-### * ⁉️ DevOverflow – AI-Powered Developer Q&A Platform
+###  ⁉️ DevOverflow – AI-Powered Developer Q&A Platform
   - Built a gamified Q&A platform, powering developer levels and community leaderboards with a custom ranking formula.
   - Integrated Gemini API, implementing 3-key failover and Bottleneck rate limiting to ensure 100% API uptime.
   - Built a secure Appwrite backend, utilizing React/Next.js memoization to achieve a 100% query reduction on cache hits.
   - Designed a highly interactive UI featuring a Command Palette, dynamic dark mode, and custom animations.
-### * 🌠 Cosmica AI Studio – Digital Asset Management SaaS
+###  🌠 Cosmica AI Studio – Digital Asset Management SaaS
   - Developed an AI-powered SaaS for digital asset management with generaBve AI ediBng and 4K image upscaling.
   - Developed a social sharing studio for intelligent image formahng and mulB-plaSorm export with real-Bme previews.
   - Designed a PostgreSQL schema using Prisma to manage asset versioning, metadata persistence, and analyBcs.
