@@ -139,12 +139,14 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
 ## 📊 GitHub Stats & Achievements
 
 <div align="center">
+  <div align="left>
   <!-- Stats Card (High-Availability Mirror) -->
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=imrajmishraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <!-- Streak Stats Card -->
   <img width="49%" src="https://streak-stats.demolab.com/?user=imrajmishraa&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
+  </div>
   <!-- Top Languages Card (High-Availability Mirror) -->
-  <img width="325" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imrajmishraa&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img align="right" width="325" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imrajmishraa&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 ---
