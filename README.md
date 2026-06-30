@@ -12,11 +12,14 @@
 Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to building robust web applications, optimizing user experiences, and exploring new horizons in software development.
 
 
+
 - 🔭 I’m currently working on building scalable web applications and enhancing my backend architectures.  
 - 🌱 I’m currently diving deeper into TypeScript, Next.js, and cloud deployments.  
 - 👯 I’m looking to collaborate on open-source projects or interesting startup ideas.  
 - 💬 Ask me about React, Node.js, Express, MongoDB, and JavaScript.  
 - 😄 Pronouns: He/Him  
+
+
 
 ---
 
