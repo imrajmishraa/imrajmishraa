@@ -146,8 +146,11 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
 
   <br/><br/>
 
+   
+
   <!-- Top Languages Card (High-Availability Mirror) -->
   <img width="325" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imrajmishraa&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+   <img src="https://img.shields.io/badge/dynamic/json?color=8a2be2&label=lifetime%20commits&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Aimrajmishraa&style=for-the-badge&logo=github" alt="Lifetime Commits" />
 </div>
 
 ---
