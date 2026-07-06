@@ -6,7 +6,7 @@
 </p>
 
 ## About Me
-<p>
+
 <img align="right" alt="Developer Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
 
 Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to building robust web applications, optimizing user experiences, and exploring new horizons in software development.
@@ -28,7 +28,7 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
   - Reduced video file sizes by 50–70% while preserving visual quality by engineering a custom H.264 compression engine.
 
 
-</p>
+
 
 ## 🚀 Tech Stack & Skills
 
