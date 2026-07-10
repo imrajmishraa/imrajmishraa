@@ -122,7 +122,11 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
   <br/>
   <div align="center">
   <!-- Top Languages Card (High-Availability Mirror) -->
-  <img width="325" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imrajmishraa&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+ <img
+  width="325"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=imrajmishraa&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=1800"
+  alt="Most Used Languages"
+/>
   </div>
 </div>
 
