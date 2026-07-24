@@ -116,8 +116,7 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
   <!-- Stats Card (High-Availability Mirror) -->
   <img width="48%" src="https://github-stats-extended.vercel.app/api?username=imrajmishraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <!-- Streak Stats Card -->
-  <img width="48%" src="https://streak-stats.demolab.com/?user=imrajmishraa&theme=react" alt="GitHub Streak" />
-  </div>
+ <img width="48%" src="https://streak-stats.demolab.com/?user=imrajmishraa&theme=dark" alt="GitHub Streak" />
   
   <br/>
   <div align="center">
