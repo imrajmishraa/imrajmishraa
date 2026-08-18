@@ -22,11 +22,12 @@ Hello! I'm **Raj Mishra**, a passionate **Full Stack Developer** dedicated to bu
   - Built a gamified Q&A platform, powering developer levels and community leaderboards.
   - Integrated Gemini API, implementing 3-key failover and Bottleneck rate limiting to ensure 100% API uptime.
   - Built a secure Appwrite backend, utilizing React/Next.js memoization to achieve a 100% query reduction on cache hits.
-###  🌠 Cosmica AI Studio – Digital Asset Management SaaS
-  - Developed an AI-powered SaaS for digital asset management.
-  - Designed a PostgreSQL schema using Prisma to manage asset versioning, metadata persistence, and analyBcs.
-  - Reduced video file sizes by 50–70% while preserving visual quality by engineering a custom H.264 compression engine.
+### 🧩 Kanban-Collab – Real-Time Collaborative Kanban Platform
 
+* Engineered a full-stack collaborative Kanban platform with workspaces, boards, authentication, and real-time multi-user collaboration.
+* Designed a layered backend architecture separating Domain, Application, Infrastructure, and Interface layers for maintainability and scalability.
+* Implemented WebSocket-based real-time collaboration with Yjs, awareness, lifecycle management, heartbeat handling, and event-driven communication.
+* Built structured HTTP APIs with validation, centralized error handling, authentication, logging, configuration management, and MongoDB persistence.
 
 
 
